@@ -2,7 +2,7 @@
 
 This project analyzes the NYC rental market by combining data from multiple sources including Zillow, StreetEasy, census data, and various external datasets to create a comprehensive analysis and visualization platform.
 
-Click the [link](https://youtu.be/3oJAN6OTuDc) for demo
+Click the [link]([https://youtu.be/3oJAN6OTuDc](https://drive.google.com/file/d/1VZQ_iDlWWOpkQ0I2RUrHoeBK1OF8WXZJ/view?usp=share_link)) for demo
 
 ## Setup Instructions
 
